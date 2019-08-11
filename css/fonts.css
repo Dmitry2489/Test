@@ -1,0 +1,20 @@
+/* FONTS */
+@font-face {
+    font-family: 'Myriad Pro Regular';
+    src: url('../fonts/MYRIADPRO-REGULAR.OTF');
+    src: url('../fonts/MyriadPro-Regular.woff2');
+    src: url('../fonts/MyriadPro-Regular.woff');
+    
+}
+@font-face {
+    font-family: 'Myriad Pro Semibold';
+    src: url('../fonts/MyriadPro-Semibold.woff');
+    src: url('../fonts/MyriadPro-Semibold.woff2');
+}
+@font-face {
+    font-family: 'Myriad Pro Light';
+    src: url('../fonts/MyriadPro-LightIt.woff');
+    src: url('../fonts/MyriadPro-LightIt.woff2');
+    src: url('../fonts/MyriadPro-Light.otf');
+}
+/* END FONTS */
